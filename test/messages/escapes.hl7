@@ -1,0 +1,6 @@
+MSH|^~\&|SENDER|FACILITY|RECEIVER|DEST|20240101120000||ADT^A01|MSG001|P|2.5
+NTE|1|L|Standard escapes: field\F\sep component\S\sep repetition\R\sep subcomponent\T\sep escape\E\char
+NTE|2|L|Hex data: letter A is \X0041\ and letter B is \X0042\
+NTE|3|L|Datetime: 20240101 and 20240101120000 and 202401011200
+NTE|4|L|Component^sub1^sub2 and repetition~rep2~rep3
+NTE|5|L|Subcomponent with ampersand: val1&sub1&sub2
